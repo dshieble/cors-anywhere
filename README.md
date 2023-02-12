@@ -1,5 +1,5 @@
 <!-- 
-git add -A .; git commit -m "push"; git push; git push heroku main; heroku restart
+git add -A .; git commit -m "push"; git push; git push heroku main; heroku restart; heroku logs --tail
 
 https://git.heroku.com/ancient-beyond-22335 
 https://ancient-beyond-22335.herokuapp.com/
