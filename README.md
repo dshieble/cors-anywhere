@@ -1,4 +1,8 @@
 <!-- 
+
+## Connect with Heroku
+heroku git:remote -a ancient-beyond-22335 
+
 git add -A .; git commit -m "push"; git push; git push heroku main; heroku restart; heroku logs --tail
 
 https://git.heroku.com/ancient-beyond-22335 
